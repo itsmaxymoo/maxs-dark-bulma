@@ -7,13 +7,9 @@ of my sites. Use at your own risk!
 ## Installation
 
 1. [Download](https://raw.githubusercontent.com/itsmaxymoo/Maxs-Dark-Bulma-Theme/main/maxs-dark-bulma.sass) `maxs-dark-bulma.sass`
-2. Include in your project, before the bulk of bulma:
+2. Include in your project, before Bulma:
 
 ```sass
-// Import initial bulma variables
-@import "bulma/utilities/initial-variables"
-@import "bulma/utilities/functions"
-
 // Import theme
 @import "maxs-dark-bulma"
 
